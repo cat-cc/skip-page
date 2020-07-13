@@ -1,0 +1,11 @@
+node_modules
+public
+lib/demo.html
+dist
+.babelrc
+.prettierrc.js
+.eslintrc.js
+babel.config.js
+
+lib/index.html
+.vscode
